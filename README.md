@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola, soy Ruben 👋
 
-<!--
-**RubenVC-dev/RubenVC-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Python y desarrollador en formación, apasionado por crear aplicaciones prácticas y resolver problemas reales.
 
-Here are some ideas to get you started:
+## Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python (Nivel intermedio)
+- Git & GitHub
+- Conocimientos básicos de frameworks web (Flask)
+- Manejo de datos y generación de informes
+
+## Proyectos
+
+- **Calculadora de rentabilidad para pequeños negocios:** Aplicación de consola para gestionar costes y calcular beneficios.
+
+## Contacto
+
+
+ruben.vidal.dev.outlook.com
+
+---
+
+*Estoy abierto a colaboraciones y con ganas de seguir creciendo como desarrollador.*
