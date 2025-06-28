@@ -1,4 +1,4 @@
-# Hola, soy Ruben 👋
+# Hola, soy RubenVC-dev 👋
 
 Soy estudiante de Python y desarrollador en formación, apasionado por crear aplicaciones prácticas y resolver problemas reales.
 
@@ -20,4 +20,4 @@ ruben.vidal.dev.outlook.com
 
 ---
 
-*Estoy abierto a colaboraciones y con ganas de seguir creciendo como desarrollador.*
+Estoy abierto a colaborar y seguir creciendo como desarrollador.
