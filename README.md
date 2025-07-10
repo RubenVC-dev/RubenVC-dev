@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi Geeks, I'm Ruben <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
@@ -58,6 +59,13 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 &nbsp;
 </br>
+
+💼 Proyectos
+
+ 🧮 Calculadora de Rentabilidad para Pymes
+
+Calculadora que analiza el beneficio de servicios en función del coste de materiales y precio de venta.🔗 [Repositorio](https://github.com/RubenVC-dev/calculadora-rentabilidad)
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
