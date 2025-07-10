@@ -11,7 +11,6 @@
 ## About me
 💪 Actualmente enfocado en convertirme en desarrollador frontend profesional.  
 🎓 Estudiando un máster en desarrollo web mientras creo proyectos reales.  
-💝 Desarrollando aplicaciones como un gestor de recetas y una calculadora de rentabilidad para mejorar mis habilidades.  
 💰 Abierto a puestos junior en frontend y proyectos freelance — ¡no dudes en contactarme!  
 ☕ Amante del café, convierto diseños limpios en código responsivo y accesible.  
 ⚙️ Aprendiendo y aplicando herramientas como React, Git y SQL para crear soluciones web completas.  
